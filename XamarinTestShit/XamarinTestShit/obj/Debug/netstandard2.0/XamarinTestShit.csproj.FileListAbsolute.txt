@@ -7,6 +7,6 @@ C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\
 C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamarinTestShit.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamarinTestShit.AssemblyInfoInputs.cache
 C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamarinTestShit.AssemblyInfo.cs
-C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamarinTestShit.dll
 C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamarinTestShit.pdb
+C:\Users\Dell\Desktop\XamarinTestShit\XamarinTestShit\XamarinTestShit\obj\Debug\netstandard2.0\XamlC.stamp

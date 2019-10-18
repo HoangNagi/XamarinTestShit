@@ -12,8 +12,11 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nunittestadapter\2.2.0\build\NUnitTestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunittestadapter\2.2.0\build\NUnitTestAdapter.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgXamarin_UITest Condition=" '$(PkgXamarin_UITest)' == '' ">C:\Users\Dell\.nuget\packages\xamarin.uitest\2.2.4</PkgXamarin_UITest>
-    <PkgNUnitTestAdapter Condition=" '$(PkgNUnitTestAdapter)' == '' ">C:\Users\Dell\.nuget\packages\nunittestadapter\2.1.1</PkgNUnitTestAdapter>
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Dell\.nuget\packages\newtonsoft.json\6.0.1</PkgNewtonsoft_Json>
   </PropertyGroup>
 </Project>
